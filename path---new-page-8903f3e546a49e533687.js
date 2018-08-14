@@ -1,0 +1,2 @@
+webpackJsonp([0x5d16ea1533fc],{342:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Nischal Shrestha",description:"Github page of Nischal Shrestha"}}},pathContext:{}}}});
+//# sourceMappingURL=path---new-page-8903f3e546a49e533687.js.map
